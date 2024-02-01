@@ -1,0 +1,24 @@
+.remember label{
+    display: inline;
+}
+
+.remember-forgot{
+    display: flex;
+    font-size: 12px;
+    justify-content: space-between;
+    padding: 20px 0;
+    align-items: center;
+}
+.remember-forgot a{
+    text-decoration: none;
+    color: black;
+}
+.remember{
+    display: flex;
+    align-items: center;
+}
+.remember input{
+    height: 12px;
+    width: 12px;
+    margin-right: 5px;
+}
